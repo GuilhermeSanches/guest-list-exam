@@ -1,0 +1,19 @@
+{
+  "name": "GUESS-LIST-EXAM",
+  "version": "1.0.0",
+  "description": "GUESS-LIST rest-NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Sanches",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "cors": "^2.7.1",
+    "body-parser": "^1.14.1",
+    "http-server": "^0.8.5",
+     "express-myconnection": "^1.0.4",
+    "mysql": "^2.6.1"
+  }
+}
